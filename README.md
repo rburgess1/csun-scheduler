@@ -1,2 +1,2 @@
 # csunscheduler
-CSUN Course Scheduler
+CSUN Course Scheduler for scheduling courses
